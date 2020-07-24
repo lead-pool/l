@@ -1,6 +1,7 @@
 {
-  "name": "Lead_Pool",
+  "name": "LEAD_Stake_Pool",
   "ticker": "LEAD",
-  "description": "Lead Pool",
-  "homepage": "www.leadstakepool.com"
+  "description": "LEAD Stake Pool",
+  "homepage": "http://www.leadstakepool.com",
+  "nonce": "1595592600"
 }
