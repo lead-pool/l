@@ -29,11 +29,11 @@
         "rss": ""
     },
     "my-pool-ids": {
-        "0": "",
+        "0": "ec6cdcad62633e065be5d96eecea28464144a1827adc0cba98d29a23",
         "1": ""
     },
     "when-satured-then-recommend": {
-        "0": "ec6cdcad62633e065be5d96eecea28464144a1827adc0cba98d29a23",
+        "0": "",
         "1": ""
     },
     "telegram-admin-handle": {
