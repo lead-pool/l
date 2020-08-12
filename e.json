@@ -5,7 +5,7 @@
         "location": "",
         "social": {
             "twitter_handle": "LEAD_Stake_Pool",
-            "telegram_handle": "",
+            "telegram_handle": "LEAD_Stake_Pool",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -21,9 +21,9 @@
             "vat_id": ""
         },
         "about": {
-            "me": "",
-            "server": "",
-            "company": ""
+            "me": "Computing graduate from the University of Leeds (UK), Current location – Australia. 8 years work experience as a programmer in the financial services industry with a particular focus on building tax engines",
+            "server": "1 Block producer and 2 Relays Each on separate nodes - CPU: 4v Cores per node, RAM: 8GB per node, HD: 80GB NVME per node, Bandwidth: 1 Gbps per node",
+            "company": "At LEAD we believe that stake pool operators should help and communicate with current and potential delegators as much as possible. All rewards earned will currently remain in the pool to increase pledge amount. Helping to LEAD the way to a decentralised future"
         },
         "rss": ""
     },
